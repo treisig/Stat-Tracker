@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em 2em;
+  margin: 0;
+
+  .nav-ul {
+    display: flex;
+  }
+  .nav-list {
+    list-style: none;
+    padding: 0 0.5em;
+  }
+  background-color: cyan;
+}

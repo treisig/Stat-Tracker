@@ -1,0 +1,36 @@
+.nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 1em 2em;
+  margin: 0;
+  background-color: cyan;
+}
+
+.nav .nav-ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.nav .nav-list {
+  list-style: none;
+  padding: 0 0.5em;
+}
+
+.update-div {
+  padding: 4em 2em;
+}
+
+.update-div .input {
+  margin: 0.5em 2em;
+  line-height: 1em;
+}
+
+.update-div .form-btn-div {
+  margin-top: 1em;
+}
+/*# sourceMappingURL=main.css.map */
